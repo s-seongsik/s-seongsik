@@ -4,7 +4,7 @@
 
 </div>
 
-## 🤔 소개
+# 🤔 소개
 
 ### 안녕하세요. 2년차 full-stack 개발자 서성식입니다. 💬 👋 🌱 😄
 ### [My Blog : https://s-seongsik.github.io/](https://s-seongsik.github.io/)
@@ -12,7 +12,8 @@
 
 <br>
 
-## 🛠 스킬
+# 🛠 스킬
+* ### **Backend**
 <p>
   <img src="http://img.shields.io/badge/-HTML5-DD4B25?style=for-the-badge&logo=HTML5&logoColor=white"/>
   <img src="http://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
@@ -21,8 +22,14 @@
   <img alt="Python" src ="https://img.shields.io/badge/Python-F37626.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 </p>
 
-<br>
-
+* ### **Frontend**
+<p>
+  <img src="http://img.shields.io/badge/-HTML5-DD4B25?style=for-the-badge&logo=HTML5&logoColor=white"/>
+  <img src="http://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
+  <img src="http://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>
+  <img src="http://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white"/>
+  <img alt="Python" src ="https://img.shields.io/badge/Python-F37626.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+</p>
 
 
 <!--
@@ -30,9 +37,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on ...B
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
