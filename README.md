@@ -15,11 +15,8 @@
 # 🛠 스킬
 * ### **Backend**
 <p>
-  <img src="http://img.shields.io/badge/-HTML5-DD4B25?style=for-the-badge&logo=HTML5&logoColor=white"/>
-  <img src="http://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
-  <img src="http://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>
-  <img src="http://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white"/>
-  <img alt="Python" src ="https://img.shields.io/badge/Python-F37626.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+  <img alt="Python" src ="https://img.shields.io/badge/Java-F37626.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+  <img alt="Python" src ="https://img.shields.io/badge/Java-F37626.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 </p>
 
 * ### **Frontend**
@@ -29,6 +26,12 @@
   <img src="http://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>
   <img src="http://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white"/>
   <img alt="Python" src ="https://img.shields.io/badge/Python-F37626.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+</p>
+
+* ### **Database**
+<p>
+  <img src="http://img.shields.io/badge/-HTML5-DD4B25?style=for-the-badge&logo=HTML5&logoColor=white"/>
+  <img src="http://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
 </p>
 
 
