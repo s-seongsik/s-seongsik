@@ -4,9 +4,15 @@
 
 </div>
 
-### 안녕하세요. 2년차 full-stack 개발자 서성식입니다. 💬 👋 🌱 😄
+## 🤔 소개
 
-### 🛠 Skill
+### 안녕하세요. 2년차 full-stack 개발자 서성식입니다. 💬 👋 🌱 😄
+### [My Blog : https://s-seongsik.github.io/](https://s-seongsik.github.io/)
+
+
+<br>
+
+## 🛠 스킬
 <p>
   <img src="http://img.shields.io/badge/-HTML5-DD4B25?style=for-the-badge&logo=HTML5&logoColor=white"/>
   <img src="http://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
@@ -14,6 +20,9 @@
   <img src="http://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white"/>
   <img alt="Python" src ="https://img.shields.io/badge/Python-F37626.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 </p>
+
+<br>
+
 
 
 <!--
