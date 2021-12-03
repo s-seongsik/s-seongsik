@@ -15,8 +15,8 @@
 # 🛠 스킬
 * ### **Backend**
 <p>
-  <img alt="Python" src ="https://img.shields.io/badge/Java-F37626.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
-  <img alt="Python" src ="https://img.shields.io/badge/Java-F37626.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+  <img alt="Python" src ="https://img.shields.io/badge/Python-F37626.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+  <img alt="java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
 * ### **Frontend**
