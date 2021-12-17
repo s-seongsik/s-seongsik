@@ -28,6 +28,7 @@
   <img alt="CSS3" src="http://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
   <img alt="JavaScript" src="http://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>
   <img alt="jQuery" src="http://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white"/>
+  <img alt="webpack" src="http://img.shields.io/badge/-webpack-0769AD?style=for-the-badge&logo=webpack&logoColor=white"/>
 </p>
 
 * ### **Database**
