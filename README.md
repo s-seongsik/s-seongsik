@@ -6,7 +6,7 @@
 
 # 🤔 소개
 
-### 안녕하세요. 2년차 full-stack 개발자 서성식입니다. 💬 👋 🌱 😄
+### 안녕하세요. 3년차 full-stack 개발자 서성식입니다. 💬 👋 🌱 😄
 ### [My Blog : https://s-seongsik.github.io/](https://s-seongsik.github.io/)
 
 
