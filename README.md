@@ -8,7 +8,7 @@
 
 ### 안녕하세요. 3년차 웹  개발자 서성식입니다. 💬 👋 🌱 😄
 ### [My Blog : https://s-seongsik.github.io/](https://s-seongsik.github.io/)
-
+### [My Portfolio : https://s-seongsik.github.io/portfolio/](https://s-seongsik.github.io/portfolio/)
 
 <br>
 
