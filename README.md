@@ -37,10 +37,17 @@
 <img alt="ES6" src="http://img.shields.io/badge/-ES6-F7DF1E?style=for-the-badge&logo=ES6&logoColor=ffffff"/>
 </p>
 
-* ### **Database**
+* ### **DevOps**
 <p>
-  <img alt="Microsoft SQL Server" src="http://img.shields.io/badge/-mssql-CC2927?style=for-the-badge&logo=Microsoft SQL Server&logoColor=white"/>
-  <img alt="MariaDB" src="http://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"/>
+<img alt="Microsoft SQL Server" src="http://img.shields.io/badge/-mssql-CC2927?style=for-the-badge&logo=Microsoft SQL Server&logoColor=ffffff"/>
+<img alt="MariaDB" src="http://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=ffffff"/>
+<img alt="Linux" src="http://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=ffffff"/>
+<img alt="Github" src="http://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=ffffff"/>
+<img alt="Gitea" src="http://img.shields.io/badge/-Gitea-609926?style=for-the-badge&logo=Gitea&logoColor=ffffff"/>
+<img alt="Git" src="http://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=ffffff"/>
+<img alt="Docker" src="http://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=ffffff"/>
+<img alt="Tomcat" src="http://img.shields.io/badge/-Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=ffffff"/>
+<img alt="Svn" src="http://img.shields.io/badge/-Svn-000000?style=for-the-badge&logo=Svn&logoColor=ffffff"/>
 </p>
 
 * ### **tool**
