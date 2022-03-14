@@ -7,10 +7,9 @@
 # 🤔 소개
 
 ### 안녕하세요. 3년차 웹  개발자 서성식입니다. 💬 👋 🌱 😄
-### [My Blog : https://s-seongsik.github.io/](https://s-seongsik.github.io/){target="_blank"}
-### [My eBook : https://s-seongsik.github.io/sik-book/](https://s-seongsik.github.io/sik-book/)
-### [My Portfolio : https://s-seongsik.github.io/portfolio/](https://s-seongsik.github.io/portfolio/)
-
+### <a href="https://s-seongsik.github.io/" target="_blank">To My Blog</a>
+### <a href="https://s-seongsik.github.io/sik-book/" target="_blank">To My eBook</a>
+### <a href="https://s-seongsik.github.io/portfolio/" target="_blank">To My Resume</a>
 
 <br>
 
