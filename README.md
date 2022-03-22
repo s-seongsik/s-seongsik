@@ -15,15 +15,6 @@
 <br>
 
 # 🛠 스킬
-* ### **Backend**
-<p>
-  <img alt="Python" src ="https://img.shields.io/badge/Python-F37626.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
-  <img alt="java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-  <img alt="FastAPI" src ="https://img.shields.io/badge/FastAPI-009688.svg?&style=for-the-badge&logo=FastAPI&logoColor=white"/>
-  <img alt="Flask" src ="https://img.shields.io/badge/Flask-000000.svg?&style=for-the-badge&logo=Flask&logoColor=white"/>
-  <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
-</p>
-
 * ### **Frontend**
 <p>
 <img alt="Vue.js" src="http://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=ffffff"/>
@@ -38,6 +29,16 @@
 <img alt="JavaScript" src="http://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=ffffff"/>
 <img alt="ES6" src="http://img.shields.io/badge/-ES6-F7DF1E?style=for-the-badge&logo=ES6&logoColor=ffffff"/>
 </p>
+
+* ### **Backend**
+<p>
+  <img alt="Python" src ="https://img.shields.io/badge/Python-F37626.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+  <img alt="java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+  <img alt="FastAPI" src ="https://img.shields.io/badge/FastAPI-009688.svg?&style=for-the-badge&logo=FastAPI&logoColor=white"/>
+  <img alt="Flask" src ="https://img.shields.io/badge/Flask-000000.svg?&style=for-the-badge&logo=Flask&logoColor=white"/>
+  <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
+</p>
+
 
 * ### **DevOps**
 <p>
