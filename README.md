@@ -17,6 +17,8 @@
 # 🛠 스킬
 * ### **Frontend**
 <p>
+<img alt="JavaScript" src="http://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=ffffff"/>
+<img alt="ES6" src="http://img.shields.io/badge/-ES6-F7DF1E?style=for-the-badge&logo=ES6&logoColor=ffffff"/>
 <img alt="Vue.js" src="http://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=ffffff"/>
 <img alt="Vuetify" src="http://img.shields.io/badge/-Vuetify-1867C0?style=for-the-badge&logo=Vuetify&logoColor=ffffff"/>
 <img alt="Nuxt.js" src="http://img.shields.io/badge/-Nuxt.js-00DC82?style=for-the-badge&logo=Nuxt.js&logoColor=ffffff"/>
@@ -26,8 +28,6 @@
 <img alt="jQuery" src="http://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=ffffff"/>
 <img alt="HTML5" src="http://img.shields.io/badge/-HTML5-DD4B25?style=for-the-badge&logo=HTML5&logoColor=ffffff"/>
 <img alt="CSS3" src="http://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=ffffff"/>
-<img alt="JavaScript" src="http://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=ffffff"/>
-<img alt="ES6" src="http://img.shields.io/badge/-ES6-F7DF1E?style=for-the-badge&logo=ES6&logoColor=ffffff"/>
 </p>
 
 * ### **Backend**
