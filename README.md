@@ -32,8 +32,8 @@
 
 * ### **Backend**
 <p>
+  <img alt="Node.js" src ="https://img.shields.io/badge/Node.js-007396.svg?&style=for-the-badge&logo=Node.js&logoColor=white"/>
   <img alt="Python" src ="https://img.shields.io/badge/Python-F37626.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
-  <img alt="java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=java&logoColor=white"/>
   <img alt="FastAPI" src ="https://img.shields.io/badge/FastAPI-009688.svg?&style=for-the-badge&logo=FastAPI&logoColor=white"/>
   <img alt="Flask" src ="https://img.shields.io/badge/Flask-000000.svg?&style=for-the-badge&logo=Flask&logoColor=white"/>
   <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
