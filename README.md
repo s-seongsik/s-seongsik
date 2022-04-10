@@ -10,7 +10,7 @@
 
 ### <a href="https://s-seongsik.github.io/" target='_blank'>To My Blog</a>
 ### <a href="https://s-seongsik.github.io/sik-book/" target='_blank'>To My eBook</a>
-### <a href="https://s-seongsik.github.io/portfolio/" target='_blank'>To My Resume</a>
+### <a href="https://s-seongsik.github.io/resume/" target='_blank'>To My Resume</a>
 
 <br>
 
