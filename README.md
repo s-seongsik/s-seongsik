@@ -14,6 +14,7 @@
 
 <br>
 
+<!--
 # 🛠 스킬
 * ### **Frontend**
 <p>
@@ -61,6 +62,7 @@
 <img alt="FileZila" src="http://img.shields.io/badge/-FileZila-BF0000?style=for-the-badge&logo=FileZila&logoColor=ffffff"/>
 <img alt="Putty" src="http://img.shields.io/badge/-Putty-02569B?style=for-the-badge&logo=Putty&logoColor=ffffff"/>
 </p>
+-->
 
 <!--
 **s-seongsik/s-seongsik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
