@@ -10,7 +10,8 @@
 
 ### <a href="https://s-seongsik.github.io/" target='_blank'>To My Blog</a>
 ### <a href="https://s-seongsik.github.io/sik-book/" target='_blank'>To My eBook</a>
-### <a href="https://s-seongsik.github.io/resume/" target='_blank'>To My Resume</a>
+### <a href="https://s-seongsik.github.io/resume/" target='_blank'>To My Resume(Vue버전)</a>
+### <a href="https://s-seongsik.github.io/g-resume/" target='_blank'>To My Resume(React버전)</a>
 
 <br>
 
